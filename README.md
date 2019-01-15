@@ -6,7 +6,7 @@ Note: You can access additional features in the website by logging in an as
 administrator. Username and Password are provided on the login page itself.
 
 If you want to see the process through which we developed this website,
-you can look at the design plan folder [design-plan](design-plan) and get a feel for the exciting journey we
+you can look at the design plan folder [Design Plan](Design Plan) and get a feel for the exciting journey we
 went through in designing and developing this amazing website!
 
 Also, to better work as a team, we penned down a team contract at the start of
